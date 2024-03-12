@@ -1,3 +1,4 @@
 /XSS/mitigation/node_modules
 /Security/XSS/mitigation/node_modules
 /Security/IframeProtection/node_modules
+/Security/SecurityHeaders/node_modules

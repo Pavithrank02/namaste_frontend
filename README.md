@@ -1,0 +1,18 @@
+# Cross Site Scripting
+-  Vuknerability
+  -  user session hijacking
+  -  unAuthorized activities
+  -  Capturing keystroke
+  -  stealig critical information
+  -  phishing attacks
+- Mitigation
+  - List all way to take user input
+  - Replace innerHTML with innerText
+  - escaping
+  - using libraries like react
+  - DOM purifying
+  - CSP heaser
+    - Content Security Policies
+      - Allowed resources
+      - script nonces
+      - Report only mode

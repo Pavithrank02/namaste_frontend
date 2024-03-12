@@ -8,5 +8,6 @@
   - Compliance & Regulation
   - Input Validation and Sanitization
   - Server-Side Request Forgery (SSRF)
+  - Server-sideJava Script Injection(SSIJ)
 
 

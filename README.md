@@ -4,4 +4,5 @@
   - Security Headers
   - Client Storage Security
   - Secure Communication
+  - Dependency Security
 

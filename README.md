@@ -7,5 +7,6 @@
   - Dependency Security
   - Compliance & Regulation
   - Input Validation and Sanitization
+  - Server-Side Request Forgery (SSRF)
 
 

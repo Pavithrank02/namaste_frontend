@@ -5,4 +5,6 @@
   - Client Storage Security
   - Secure Communication
   - Dependency Security
+  - Compliance & Regulation
+  
 

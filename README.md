@@ -6,5 +6,6 @@
   - Secure Communication
   - Dependency Security
   - Compliance & Regulation
-  
+  - Input Validation and Sanitization
+
 

@@ -1,6 +1,6 @@
 # Server-Side Request Forgery
   - unvalidated user input
-    - ![image](C:\Users\PC\Desktop\namaste_frontend\Security\assets\imagesuser.JPG)
+    - ![image](/Security/assets/images/user.JPG)
   - Lack of whitelisting
     - ![image](/assets/images/whitelist.JPG)
   - Insufficient access control

@@ -3,3 +3,5 @@
   - Iframe Protection
   - Security Headers
   - Client Storage Security
+  - Secure Communication
+

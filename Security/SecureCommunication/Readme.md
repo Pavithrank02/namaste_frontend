@@ -1,0 +1,11 @@
+# Secure Communication with HTTPs
+  - Data Encryption(TLS)
+  - Authentication(SSL & TLS)
+  - Data Integrity(MAC)
+  - Protection Against Phishing
+  - Data Privacy
+  - Compliance with security Standards
+  - Trust and Repuation
+  - Search engine ranking
+  - protection against browser warning
+  - Faster website loading(HTTp2)

@@ -1,0 +1,14 @@
+# Client Storage Security
+  - storing sensitive data on client storage
+    - try storing data at the server
+    - encrypt the data which are processed
+    - set the toke expiry for each token generated
+  - Authentication
+    - use OAuth2.0 protocols
+    - use JWT
+    - session token expiry setting
+    - multifactored authentication
+  - Data integrity 
+    - Implement checksum
+  - storage limit
+  - Session Management with storage.

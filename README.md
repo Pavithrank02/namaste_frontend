@@ -11,5 +11,6 @@
   - Server-sideJava Script Injection(SSIJ)
   - Feature Policy | Permissions-Policy
   - Subresource Integrity (SRI)
+  - Cross-Origin Resource Sharing (CORS)
 
 

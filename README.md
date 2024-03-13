@@ -12,5 +12,6 @@
   - Feature Policy | Permissions-Policy
   - Subresource Integrity (SRI)
   - Cross-Origin Resource Sharing (CORS)
+  - Cross-Site Request Forgery (CSRF)
 
 

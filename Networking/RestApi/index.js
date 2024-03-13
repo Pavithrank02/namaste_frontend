@@ -27,7 +27,7 @@ app.get('/todos', (req, res) => {
 app.post('/todos', (req, res) => {
   const newTodo = req.body
   todos.push(newTodo)
-  res.json({
+  res.status(201).json({
     message: "New todo added"
   })
 })
@@ -44,6 +44,10 @@ app.put('/todos/:id', (req, res) => {
     }
     res.json({
       message: "Todo Updated Successfully"
+    })
+  } else {
+    res.status(400).json({
+      message: "Error occured with id not exist"
     })
   }
 })

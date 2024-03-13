@@ -44,3 +44,6 @@
             - ![image](/Networking/assets/images/head1.JPG)
           - Response Headers
            - ![image](/Networking/assets/images/res-head.JPG)
+          - Status Code
+            - ![image](/Networking/assets/images/status1.JPG)
+            - ![image](/Networking/assets/images/status2.JPG)

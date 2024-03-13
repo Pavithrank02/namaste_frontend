@@ -1,2 +1,11 @@
 # How the Web Works
   -   ![image](/Networking/assets/images/web.JPG)
+     ![image](/Networking/assets/images/2.JPG)
+     ![image](/Networking/assets/images/3.JPG)
+     ![image](/Networking/assets/images/4.JPG)
+     ![image](/Networking/assets/images/5.JPG)
+     ![image](/Networking/assets/images/6.JPG)
+     ![image](/Networking/assets/images/7.JPG)
+     ![image](/Networking/assets/images/8.JPG)
+     ![image](/Networking/assets/images/9.JPG)
+     ![image](/Networking/assets/images/10.JPG)

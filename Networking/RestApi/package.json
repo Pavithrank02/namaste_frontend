@@ -1,0 +1,17 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "-  ![image](/Networking/assets/images/REST1.JPG)\r   - Architecture \r     - IS the combination of UI and backend and has different architectures.\r       - `1-tier architecture`: which has both frontend and backend working in same layer\r       - `2-tier architecture`: where frontend and backend works as separate layer.\r       - `3-tier architecture`: where backend, frontend and storage acts in different layer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}

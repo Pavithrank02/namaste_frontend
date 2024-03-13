@@ -1,0 +1,40 @@
+# Representational State Transfer (REST) APIs
+  -  ![image](/Networking/assets/images/REST1.JPG)
+  - Architecture 
+    - IS the combination of UI and backend and has different architectures.
+      - `1-tier architecture`: which has both frontend and backend working in same layer
+      - `2-tier architecture`: where frontend and backend works as separate layer.
+      - `3-tier architecture`: where backend, frontend and storage acts in different layer.
+
+  - What is REST API
+    - It's an architectural style for setting the communication between two different services. It sets the platform for communication between two programming languages. 
+    - HTTP will be helping to decide the communication and it will be providing the foundation or protocol for conventional communication.
+    - `Benefits`
+       - Ease of use
+       - stateless
+       - scalability
+       - flexible with data
+       - uniform interface
+       - caching
+       - separation of concern
+       - interoperability - language agnostic
+       - Testing
+       - security
+    - Building Blocks
+        -  request
+            -  ![image](/Networking/assets/images/req.JPG)
+        - response 
+          -  ![image](/Networking/assets/images/res.JPG)
+
+      - URL Parts
+         -  ![image](/Networking/assets/images/url.JPG)
+         - server do not recieve the hash value.
+         - Methods
+          - POST
+          - GET
+          - PUT/PATCH
+          - DELETE
+          - HEAD
+          - OPTIONS
+          - CONNECT
+          - TRACE

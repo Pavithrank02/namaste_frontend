@@ -38,3 +38,9 @@
           - OPTIONS
           - CONNECT
           - TRACE
+        - headers
+          - Request Headers
+            - ![image](/Networking/assets/images/head.JPG)
+            - ![image](/Networking/assets/images/head1.JPG)
+          - Response Headers
+           - ![image](/Networking/assets/images/res-head.JPG)

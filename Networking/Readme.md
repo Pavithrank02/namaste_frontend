@@ -1,4 +1,4 @@
 # Networkings
-  - How the Web Works
+  - How the Web Work
   - Communication Protocols
   - REST APIs

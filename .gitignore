@@ -4,3 +4,4 @@
 /Security/SecurityHeaders/node_modules
 /Security/CORS/server/node_modules
 /Networking/RestApi/node_modules
+/Networking/GraphQL/node_modules

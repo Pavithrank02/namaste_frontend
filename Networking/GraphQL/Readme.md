@@ -16,6 +16,7 @@
   - REST API vs GRAPHQL
     - ![image](/Networking/assets/images/graph1.JPG)
     - ![image](/Networking/assets/images/graph2.JPG)
+    - ![image](/Networking/assets/images/graph3.JPG)
 const books = [
   {
     title: 'The Awakening',

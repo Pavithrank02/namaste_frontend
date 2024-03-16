@@ -5,7 +5,7 @@ const data = [{
 },
 {
   name: "pavigh",
-  age: 27
+  age: 28
 
 },
 {
@@ -29,3 +29,5 @@ function sortingAge() {
 }
 
 console.log(sortingAge())
+
+module.exports = sortingAge

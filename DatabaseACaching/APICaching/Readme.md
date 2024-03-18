@@ -1,0 +1,14 @@
+# API Caching
+- API cache will be internally maintaining the cache for triggering API. 
+- Popolur librries
+  - React Query
+  - SWR
+  - Axios
+  - Apollo client
+- Methods
+  - cache-first
+  - network only
+  - cache-and-network
+  - cache-last
+  - no-cache
+- [React Query](https://tanstack.com/query/latest/docs/framework/react/overview)

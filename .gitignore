@@ -10,3 +10,4 @@
 /Communication/LongPolling/node_modules
 /Communication/SSE/node_modules
 /Communication/Webhook/node_modules
+/Communication/WebSocket/node_modules

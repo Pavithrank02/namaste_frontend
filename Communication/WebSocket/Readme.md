@@ -1,0 +1,28 @@
+# Web Sockets
+  - full duplex communication
+  - single long TCP conne4ction
+  - continuous bidirectional connection
+  - wss
+  - framming
+  - 101 swictching protocol
+
+  - When the handshake is happening with the server, the TTP upgrade will be performed and then communication is opened.
+  - bidirectional messages will be sent
+  - communication connection is closed
+  - Use Cases
+    - Gaming (multiplayer)
+    - Analytics
+    - Financial trading
+    - collab
+    - Social medias
+  - Challenges
+    - resource utilization
+    - connection limit
+    - sticky connection
+    - load balancer
+    - Authentication
+    - Firewall/Proxy
+    - Scaling
+    - Testing/Debugging
+    - Backward compatibility
+    - resource cleanup

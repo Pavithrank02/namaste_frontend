@@ -3,3 +3,4 @@
 - Long Polling
 - SSE
 - Webhook
+- Websocket

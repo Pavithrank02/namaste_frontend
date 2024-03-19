@@ -15,3 +15,4 @@
   - CPU & GPU
 
   - Performance Monitoring
+  - Performance Tools

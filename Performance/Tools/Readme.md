@@ -1,0 +1,14 @@
+# Performance Tools
+- Real user data
+  - [CrUX](https://developer.chrome.com/docs/crux)
+  - [page](https://pagespeed.web.dev/)
+  - [request metrix](https://requestmetrics.com/)
+  -  sentry
+  - clarity
+  - new relic
+- Simulated Data
+  - webpagetest.org
+- Developer Mode
+  - Lighthouse
+  - performance tab
+  - network

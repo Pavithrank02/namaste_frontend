@@ -7,4 +7,8 @@
       - mouse pointer
       - touch screen gestures
       - screen magnifier
-   - ![image](/Networking/assets/images/wcag.JPG) 
+   - ![image](/Networking/assets/images/wcag.JPG)
+  - Screen reader
+    - ![image](/Networking/assets/images/sreader.JPG)
+    - chrome extentions
+

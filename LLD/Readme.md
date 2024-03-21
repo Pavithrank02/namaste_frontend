@@ -1,0 +1,11 @@
+# Low Level Design
+  - Component design
+    - Dont jump for coding before component designing
+    - modular, reusable, readable, testable
+    - SOLID Principle
+      - Single responsibility principle
+  - Config driven UI
+    - Use config file to define the layout of web page and render the component
+    - Dynamic UI
+    - backend UI
+    - they are customizable

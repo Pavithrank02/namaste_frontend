@@ -9,3 +9,5 @@
     - Dynamic UI
     - backend UI
     - they are customizable
+  - Routing & Protected Routes
+  - State Management + Libraries

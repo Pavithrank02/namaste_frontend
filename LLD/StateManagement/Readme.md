@@ -1,0 +1,11 @@
+# State Management + Libraries
+  - UI layer recieves data from the data layer
+  - UI layer is controlled by the data layer
+  - because of the dynamic behaviour of single page application, the state is used to controll such behaviour
+  - local state is any dynamic data in the component level. 
+  - props drilling is passing the data from parfents to childrens
+  - lifting the state up, data can be passed between siblings
+  - Libraries
+    - Redux
+    - Zustand
+  - Content API for avoiding props drilling

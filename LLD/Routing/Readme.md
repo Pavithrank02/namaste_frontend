@@ -1,0 +1,11 @@
+# Routing & Protected Routes
+  - SEO is impacted with the routing
+  - UX is also impacted
+  - redrection is always a fallback
+  - query params is also important
+  - single page application
+  - routing libraries in rectjs with react-router-dom
+  - keep it very simple
+  - Protected routes
+    - put all the routes inside a wrapper
+    - outlet is a placein react where you can render the children.

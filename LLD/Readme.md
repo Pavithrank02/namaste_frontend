@@ -11,3 +11,4 @@
     - they are customizable
   - Routing & Protected Routes
   - State Management + Libraries
+  - Accordian

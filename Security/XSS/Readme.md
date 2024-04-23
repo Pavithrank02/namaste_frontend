@@ -1,5 +1,5 @@
 # Cross Site Scripting
--  Vuknerability
+-  Vulnerability
   -  user session hijacking
   -  unAuthorized activities
   -  Capturing keystroke
